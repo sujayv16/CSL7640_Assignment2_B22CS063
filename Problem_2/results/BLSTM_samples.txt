@@ -1,0 +1,11 @@
+--- Generated Samples from BLSTM ---
+
+Iqiqiqiqigigigi
+Ililililililili
+Lllllllllllllll
+Lllllllllllllll
+Qiqiqiqiqididid
+<sos>
+Lllllllllllllll
+Tatatatatatatat
+Qaqaqavavavavav
